@@ -1,0 +1,90 @@
+body {
+	font-family: 'Space Mono';
+}
+
+.navbar-brand {
+	font-size: 2rem;
+	padding-left: 5%;
+}
+
+.navbar-collapse {
+	padding-right: 5%;
+}
+
+.main-image {
+	filter: grayscale(100%);
+	-webkit-filter: grayscale(100%);
+	height: 100vh;
+	display: block;
+	position: relative;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+
+.logo-image {
+	max-height: 40vh;
+	max-width: 40vh;
+	background-size: contain;
+}
+
+.main-content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.experience {
+	color: white;
+	text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+}
+
+.main-content p {
+	font-size: 2rem;
+	margin-bottom: 30px;
+}
+
+.about-content {
+	background-color: black;
+	color: white;
+	padding: 100px 0;
+}
+
+.services-content {
+	background-color: white;
+	color: black;
+	padding: 100px 0;
+}
+
+.vl {
+	border-left: 1px solid black;
+	height: 100%;
+	margin-left: 15px;
+}
+
+.process-content {
+	background-color: black;
+	color: white;
+	padding: 100px 0;
+}
+
+.card {
+	background-color: white;
+	color: black;
+	max-height: 500px;
+	overflow: auto;
+}
+
+.card-title {
+	font-weight: bold;
+}
+
+.card-text {
+	font-family: 'Roboto Mono';
+}
+
+.footer-brand {
+	color: white;
+}
