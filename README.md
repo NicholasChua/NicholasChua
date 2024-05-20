@@ -1,1 +1,3 @@
-# NicholasChua.github.io
+# README.md
+
+Hello! This is NicholasChua.
