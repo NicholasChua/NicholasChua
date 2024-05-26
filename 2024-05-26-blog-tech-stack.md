@@ -78,6 +78,8 @@ The key learning objectives of this project include:
 
 With the completion of this project, I have successfully set up a blog that suited my goal of documenting my journey, insights, and projects in the tech industry. I have achieved all the [Learning Objectives](#learning-objectives) I set out to accomplish and have gained a better understanding of the technologies used in this project. This retrospective serves to document the research, implementation, and errors encountered during the project, providing a comprehensive overview of the process.
 
+If you are interested in the code or the development process for this blog, you can find it in the [youread.me Repository][12]. Feel free to explore the code and use it as a reference for your own projects.
+
 ## What's Next?
 
 This is my first technical post on the blog, setting the stage for future technical posts that will follow in the future. The next post will be something less technical, focusing on my journey and experiences in the tech industry. I look forward to sharing more content with you in the future. Stay tuned!
@@ -99,6 +101,7 @@ exit
 9. [RFC 7763 - The text/markdown Media Type][9]
 10. [Cloudflare - What is a DNS Record?][10]
 11. [Porkbun][11]
+12. [youread.me Repository][12]
 
 [1]: https://technotim.live/posts/jekyll-docs-site/
 [2]: https://jekyllrb.com/
@@ -111,7 +114,8 @@ exit
 [9]: https://www.rfc-editor.org/rfc/rfc7763.html
 [10]: https://www.cloudflare.com/learning/dns/dns-records/
 [11]: https://porkbun.com/
+[12]: https://github.com/NicholasChua/NicholasChua
 
 ---
 
-[Return to Index](#youreadme-tech-stack)
+[Return to Index](#the-youreadme-tech-stack)
