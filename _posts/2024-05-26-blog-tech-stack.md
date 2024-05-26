@@ -49,29 +49,29 @@ The key learning objectives of this project include:
 
 ##### Implementation of Jekyll and Chirpy
 
-4. Following the [Chirpy Starter Repository][5] instructions, I generated a new repository template to work with locally, and then cloned the repository to my local machine.
-5. Returning to [Meet Jekyll - The Static Site Generator][1], I followed the instructions to set up a local development environment for Jekyll. This includes installing dependencies and the Jekyll bundler, then running the Jekyll server to preview the site.
-6. I then wrote my first post in Markdown, following the [Markdown Guide][8] to understand the syntax and structure of Markdown. I followed the [Chirpy Theme Documentation][4] to generate the appropriate front matter, file name, and structure for the post.
-7. After confirming that the post displayed correctly on the local server, I committed the changes to the repository and pushed them to the remote repository on GitHub.
+1. Following the [Chirpy Starter Repository][5] instructions, I generated a new repository template to work with locally, and then cloned the repository to my local machine.
+2. Returning to [Meet Jekyll - The Static Site Generator][1], I followed the instructions to set up a local development environment for Jekyll. This includes installing dependencies and the Jekyll bundler, then running the Jekyll server to preview the site.
+3. I then wrote my first post in Markdown, following the [Markdown Guide][8] to understand the syntax and structure of Markdown. I followed the [Chirpy Theme Documentation][4] to generate the appropriate front matter, file name, and structure for the post.
+4. After confirming that the post displayed correctly on the local server, I committed the changes to the repository and pushed them to the remote repository on GitHub.
 
 ##### Deployment on GitHub Pages
 
-8. I then configured the repository settings to enable GitHub Pages, selecting the `main` branch as the source for the site. I used the default settings for the domain name (\<username>.github.io). I also enabled GitHub Actions to allow for automatic deployment of the site.
-9. The site was then built and deployed by GitHub Actions, and I was able to access the site at the default domain name.
+1. I then configured the repository settings to enable GitHub Pages, selecting the `main` branch as the source for the site. I used the default settings for the domain name (\<username>.github.io). I also enabled GitHub Actions to allow for automatic deployment of the site.
+2. The site was then built and deployed by GitHub Actions, and I was able to access the site at the default domain name.
 
 ##### Custom Domain Configuration
 
-10. I read the [Cloudflare - What is a DNS Record?][10] guide to understand the basics of DNS records and how they are used to configure custom domains.
-11. I deliberated through the available domain names, deciding on one that would match what my site aimed to do. After discovering that **youread.me** was available, I purchased the domain name from [Porkbun][11], which I already had an account with.
-12. I then consulted the [GitHub Pages Documentation][7] to understand how to configure a custom domain for my GitHub Pages site. I added the necessary DNS records (A and CNAME) to point the domain to the GitHub Pages site. In particular, I configured the A record to point to the GitHub Pages IP addresses (as they were the host of the site) and the CNAME record to point to my GitHub Pages domain (NicholasChua.github.io).
-13. After allowing some time for the DNS records to propagate, I changed the repository settings to use the custom domain name (youread.me) instead of the default GitHub Pages domain. This is done by creating a `CNAME` file that contained the domain name. I also enforced HTTPS on the site by enabling the HTTPS option in the repository settings, as HTTPS is ubiquitous and expected in modern websites.
-14. The site was then accessible at youread.me, and I was able to verify that the site was correctly configured and accessible.
+1. I read the [Cloudflare - What is a DNS Record?][10] guide to understand the basics of DNS records and how they are used to configure custom domains.
+2. I deliberated through the available domain names, deciding on one that would match what my site aimed to do. After discovering that **youread.me** was available, I purchased the domain name from [Porkbun][11], which I already had an account with.
+3. I then consulted the [GitHub Pages Documentation][7] to understand how to configure a custom domain for my GitHub Pages site. I added the necessary DNS records (A and CNAME) to point the domain to the GitHub Pages site. In particular, I configured the A record to point to the GitHub Pages IP addresses (as they were the host of the site) and the CNAME record to point to my GitHub Pages domain (NicholasChua.github.io).
+4. After allowing some time for the DNS records to propagate, I changed the repository settings to use the custom domain name (youread.me) instead of the default GitHub Pages domain. This is done by creating a `CNAME` file that contained the domain name. I also enforced HTTPS on the site by enabling the HTTPS option in the repository settings, as HTTPS is ubiquitous and expected in modern websites.
+5. The site was then accessible at youread.me, and I was able to verify that the site was correctly configured and accessible.
 
 ## Errors Encountered
 
 1. **DNS Propagation**: After configuring the custom domain, I encountered issues with DNS propagation. The changes did not take effect immediately, and I had to wait for the DNS records to propagate before the site was accessible at the custom domain. This was resolved by waiting for the changes to propagate, which took a few hours.
 2. **CI/CD Failing On Tests**: I encountered issues with deploying the site using GitHub Actions, as the tests were failing. This was due to two issues that were my mistakes. After fixing these issues, the site could be successfully deployed using GitHub Actions.
-   - I had not set the 'url' variable in the `_config.yml` file correctly and missed the protocol (`https://`youread.me)
+   - I had not set the 'url' variable in the `_config.yml` file correctly and missed the protocol (`https://`youread.me).
    - I had made the same error in the `_data/authors.yml` file resulting in an unworkable link caught by the CI/CD test.
 
 ## Conclusion
