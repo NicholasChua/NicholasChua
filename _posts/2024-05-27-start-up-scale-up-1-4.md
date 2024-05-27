@@ -4,7 +4,7 @@ date: 2024-05-27 20:23:58 +0800
 categories: [professional]
 tags: [idp, mdm, edr, xdr, ztna, okta, jamf-pro, jamf-protect, jamf-connect]
 author: NicholasChua
-description: An overview and motivation behind the tech stack used in youread.me
+description: An overview of the journey in transforming a startup's IT systems from nothing to SOC II Type 2 compliance in 36 months.
 ---
 
 # Start-up Scale-up, a 36 Month Vision: Part 1/4
