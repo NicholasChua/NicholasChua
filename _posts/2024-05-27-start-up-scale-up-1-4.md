@@ -100,4 +100,4 @@ exit
 
 ---
 
-[Return to Index](#start-up-scale-up-a-36-month-vision-part-14)
+[Return to Top](#start-up-scale-up-a-36-month-vision-part-14)

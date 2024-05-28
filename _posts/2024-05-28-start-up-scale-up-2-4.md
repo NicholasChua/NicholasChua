@@ -91,10 +91,6 @@ exit
 
 [1]: https://www.okta.com/
 
-```bash
-exit
-```
-
 ---
 
 [Return to Top](#start-up-scale-up-a-36-month-vision-part-24)
