@@ -16,7 +16,7 @@ This will be the second in a four-part series where I reflect on the journey tha
 
 ## Timeline and Information
 
-All timelines here are intentionally obfuscated to protect the company's privacy. Aside from the timeline, all other details such as software have already been covered in the [first part of this series](2024-05-27-start-up-scale-up-1-4.md).
+All timelines here are intentionally obfuscated to protect the company's privacy. Aside from the timeline, all other details such as software have already been covered in the [first part of this series]({% link _posts/2024-05-27-start-up-scale-up-1-4.md %}).
 
 ```mermaid
 gantt
