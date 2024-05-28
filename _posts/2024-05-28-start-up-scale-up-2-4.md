@@ -37,6 +37,8 @@ I joined Biofourmis as a System Administrator in August 2020, enraptured with th
 
 I have to be honest that I felt helpdesk was beneath me, although I swallowed my pride and understood that this was one (and maybe the most important) hat I signed up to wear. It was this distaste in how little IT infrastructure we had that gave me the determination to change things for the better.
 
+A few weeks into my tenure, I was surprised to learn that the company had closed their Series C funding round, a $100 million investment that would be used to accelerate the US expansion. This was an amazing sign of potential; I knew money would be spent, and I wanted to ensure that it was spent wisely.
+
 ### The Lay of the Land
 
 **TL;DR**: A Mac-first approach demanded that I approach differently. I established a business relationship with Apple for purchasing devices. I interviewed my future boss. I negotiated a salary increase for taking on more responsibilities.
