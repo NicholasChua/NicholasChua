@@ -2,7 +2,7 @@
 title: "Start-up Scale-up, a 36 Month Vision: Part 1/4"
 date: 2024-05-27 20:23:58 +0800
 categories: [professional]
-tags: [idp, mdm, edr, xdr, ztna, okta, jamf-pro, jamf-protect, jamf-connect]
+tags: [idp, mdm, edr, xdr, ztna, itsm, okta, jamf-pro, jamf-protect, jamf-connect]
 author: NicholasChua
 description: An overview of the journey in transforming a startup's IT systems from nothing to SOC II Type 2 compliance in 36 months.
 ---
@@ -66,7 +66,7 @@ This post will serve as an introduction to the series, providing an overview of 
 
 ##### Year 1: Planting the Seeds
 
-A then-25 year old me walked into a small office full of promise, only to find that the company had a long road ahead in terms of IT systems. Though a small team existed with several tools in place, how would I navigate this first year and plant the seeds for the future?
+A then-25 year old me walked into a small office full of promise, only to find that the company had a long road ahead in terms of IT systems. Though a small team existed with several tools in place, how would I navigate this first year and [plant the seeds]({% link _posts/2024-05-28-start-up-scale-up-2-4.md %}) for the future?
 
 ##### Year 2: Period of Growth
 
