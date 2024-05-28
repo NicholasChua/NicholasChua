@@ -2,7 +2,7 @@
 title: "Start-up Scale-up, a 36 Month Vision: Part 2/4"
 date: 2024-05-28 20:22:39 +0800
 categories: [professional]
-tags: [edr, xdr, okta]
+tags: [edr, xdr, okta, idp]
 author: NicholasChua
 description: The first year of the journey in transforming a startup's IT systems from nothing to SOC II Type 2 compliance in 36 months.
 mermaid: true
