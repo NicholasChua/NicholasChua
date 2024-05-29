@@ -67,7 +67,7 @@ The new office was a resounding success, and I was proud to have been a part of 
 
 **TL;DR**: I was sold on a grand vision of what our IT systems could be, and the first step was to introduce Okta. We moved slowly and deliberately, allowing it to permeate the company culture. Applications began to join the Okta ecosystem, demonstrating Okta's convenience. All went well.
 
-My counterpart in the US introduced me to a grand vision of what our IT systems could be (which aligned with my understanding of an ideal It systems optimized for Macs in our corporation) and the first step to realizing that vision was to introduce [Okta][1]. Although we had Product J in place, it was, at the time, not mature enough to handle the demands of being both an identity provider and an MDM solution.
+My counterpart in the US introduced me to a grand vision of what our IT systems could be (which aligned with my understanding of an ideal IT system optimized for Macs in our corporation) and the first step to realizing that vision was to introduce [Okta][1]. Although we had Product J in place, it was, at the time, not mature enough to handle the demands of being both an identity provider and an MDM solution.
 
 Okta was the first half of the solution that we needed, and it was the solution that would become the single source of truth, and the cornerstone of our IT systems. Nothing was integrated with Okta at first, which was a good thing as it allowed us to roll out Okta in a wide scope to everyone without it impacting their work. We moved slowly and deliberately, allowing Okta to permeate the company's culture.
 
