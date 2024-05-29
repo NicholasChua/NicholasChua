@@ -74,7 +74,7 @@ Before the year began, I was faced with the decision to pursue my degree or to c
 
 ##### Year 3: Harvesting the Fruits
 
-With the hardships of the past two years behind us, it was time to prepare to harvest the fruits of our labor. Though the hardest part was over, the journey was far from complete. How would I build upon the foundation laid in the past two years, and look back to see how far we had come?
+With the hardships of the past two years behind us, it was time to prepare to [harvest the fruits]({% link _posts/2024-05-30-start-up-scale-up-4-4.md %}) of our labor. Though the hardest part was over, the journey was far from complete. How would I build upon the foundation laid in the past two years, and look back to see how far we had come?
 
 ## What's Next?
 
