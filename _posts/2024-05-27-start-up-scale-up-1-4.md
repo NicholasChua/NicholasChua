@@ -2,7 +2,7 @@
 title: "Start-up Scale-up, a 36 Month Vision: Part 1/4"
 date: 2024-05-27 20:23:58 +0800
 categories: [professional]
-tags: [idp, mdm, edr, xdr, ztna, itsm, okta, jamf-pro, jamf-protect, jamf-connect]
+tags: [idp, mdm, edr, xdr, ztna, itsm, zero-touch, okta, jamf-pro, jamf-protect, jamf-connect]
 author: NicholasChua
 description: An overview of the journey in transforming a startup's IT systems from nothing to SOC II Type 2 compliance in 36 months.
 ---
@@ -74,7 +74,7 @@ Before the year began, I was faced with the decision to pursue my degree or to c
 
 ##### Year 3: Harvesting the Fruits
 
-With the hardships of the past two years behind us, it was time to prepare to harvest the fruits of our labor. Though the hardest part was over, the journey was far from complete. How would I build upon the foundation laid in the past two years, and look back to see how far we had come?
+With the hardships of the past two years behind us, it was time to prepare to [harvest the fruits]({% link _posts/2024-05-30-start-up-scale-up-4-4.md %}) of our labor. Though the hardest part was over, the journey was far from complete. How would I build upon the foundation laid in the past two years, and look back to see how far we had come?
 
 ## What's Next?
 
@@ -91,12 +91,14 @@ exit
 3. [Jamf Pro][3]
 4. [Jamf Protect][4]
 5. [Jamf Connect][5]
+6. [Jamf Trust][6]
 
 [1]: https://www.jamf.com/resources/case-studies/biofourmis-and-jamf-deliver-best-in-class-security-and-regulatory-compliance/
 [2]: https://www.okta.com/
 [3]: https://www.jamf.com/products/jamf-pro/
 [4]: https://www.jamf.com/products/jamf-protect/
 [5]: https://www.jamf.com/products/jamf-connect/
+[6]: https://www.jamf.com/products/jamf-trust/
 
 ---
 
