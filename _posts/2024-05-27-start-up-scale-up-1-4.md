@@ -70,7 +70,7 @@ A then-25 year old me walked into a small office full of promise, only to find t
 
 ##### Year 2: Period of Growth
 
-Before the year began, I was faced with the decision to pursue my degree or to continue implementing this grand vision. I chose to do both, and I did not regret my decision. This was a time of rapid growth for the company, and the cracks were beginning to show. How would I play a part in this bright future?
+Before the year began, I was faced with the decision to pursue my degree or to continue implementing this grand vision. I chose to do both, and I did not regret my decision. This was a time of rapid growth for the company, and the cracks were beginning to show. How would I play a part in this [period of growth]({% link _posts/2024-05-29-start-up-scale-up-3-4.md %})?
 
 ##### Year 3: Harvesting the Fruits
 
