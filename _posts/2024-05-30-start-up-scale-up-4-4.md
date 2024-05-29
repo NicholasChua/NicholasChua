@@ -30,7 +30,7 @@ gantt
 
 ## Journey
 
-**TL;DR**: 
+**TL;DR**: We trusted Jamf to protect our devices and identity, and we were not disappointed. We also achieved SOC II Type 2 compliance, a great achievement for us, as it was a testament to the hard work that we had put in over the past three years.
 
 ### Introduction
 
@@ -42,6 +42,8 @@ Halfway through the year, my full-time successor had left the company, and I had
 
 ### How We Trust Jamf to Protect
 
+**TL;DR:** We deployed Jamf Protect and Jamf Trust, the final pieces of the puzzle that we needed to complete our suite of systems. Both function in tandem, with Jamf Protect providing advanced threat protection for macOS, and Jamf Trust providing Zero-Trust Network Access (ZTNA).
+
 [Jamf Protect][4] and [Jamf Trust][5] were the next steps in our journey. Jamf Protect was an endpoint security solution that provided advanced threat protection for macOS, while Jamf Connect was a solution that streamlined Mac authentication and identity management. These were the final pieces of the puzzle that we needed to complete our suite of systems, and I was glad that we had managed to get them in place.
 
 Though we already had an XDR and SIEM solution in place, Jamf Protect was a great addition to our security stack. We also particularly liked the ease of use of Jamf Protect compared to our existing XDR solution, and we were planning to decide if decommissioning the existing solution was the right call in the years ahead.
@@ -49,6 +51,8 @@ Though we already had an XDR and SIEM solution in place, Jamf Protect was a grea
 Meanwhile, Jamf Trust was a great addition to our identity management stack. With Biofourmis's largest office being in the US, and employees being geographically distributed across the country, it was important that we had Zero-Trust Network Access (ZTNA) in place. Jamf Trust was a great solution for this, as it allowed us to grant the appropriate levels of access based on the risk assessed.
 
 ### The Functional Magic of Zero-Touch Deployment
+
+**TL;DR:** Zero-Touch Deployment was a process that was automated from start to finish, with the devices being shipped directly from the manufacturer to the employee, and the devices being enrolled in our MDM solution as soon as the devices were connected to the internet. The user was allowed to register their identity and complete the setup process together, and this was a process that was so seamless that it was almost invisible.
 
 As someone who has experienced the magic of Zero-Touch Deployment, I would love to share how this magic with you.
 
@@ -59,6 +63,8 @@ The workflow of Zero-Touch Deployment was functionally magic. It was a process t
 This process was, in my opinion, the epitome of our success, reducing the time taken to deploy devices from hours to mere minutes. This was in addition to the security benefits and improved user experience. It was a process that was so seamless that it was almost invisible, and it was a process that I was proud to have been a part of.
 
 ### The SOC II Type 2 Compliance Journey
+
+**TL;DR:** With the completion of this suite of systems, we were well on our way to achieving SOC II Type 2 compliance. This was only possible with the hard work that we had put in over the past three years, and the success of our IT systems was a testament to that.
 
 With the completion of this suite of systems, we were well on our way to achieving SOC II Type 2 compliance. We had already achieved SOC II Type 1 compliance, and we were confident that we would be able to achieve SOC II Type 2 compliance in the years ahead. We had already been tracking metrics to measure the success of our IT systems, and we were confident that we would be able to meet the stringent requirements of the SOC II Type 2 audit.
 
