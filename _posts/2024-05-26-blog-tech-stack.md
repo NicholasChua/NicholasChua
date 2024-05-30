@@ -43,7 +43,7 @@ The key learning objectives of this project include:
 
 ##### Research
 
-1. I watched Techno Tim's video on [Meet Jekyll - The Static Site Generator][1] to understand the basics of static site generation, Jekyll, and how it could be used to create a documentation site.
+1. I watched Techno Tim's video on [Meet Jekyll - The Static Site Generator][1] to understand the basics of static site generation, Jekyll, the Chirpy theme, and how it could be used to create a documentation site.
 2. Before starting the project, I researched the technologies I would be using, particularly Jekyll and GitHub Pages. I read the documentation to understand how their features suited my needs.
 3. I browsed through various Jekyll themes to find one that matched my requirements for a clean and minimalistic design. I chose the Chirpy theme for its readability and technical writing focus.
 
