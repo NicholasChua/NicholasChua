@@ -54,21 +54,23 @@ Meanwhile, Jamf Trust was a great addition to our identity management stack. Wit
 
 **TL;DR:** Zero-Touch Deployment was a process that was automated from start to finish, with the devices being shipped directly from the manufacturer to the employee, and the devices being enrolled in our MDM solution as soon as the devices were connected to the internet. The user was allowed to register their identity and complete the setup process together, and this was a process that was so seamless that it was almost invisible.
 
-As someone who has experienced the magic of Zero-Touch Deployment, I would love to share how this magic with you.
+As someone who has experienced the magic of Zero-Touch Deployment, I would love to share this magic with you.
 
-As stated in the [case study by Jamf][1], Zero-Touch Deployment is a workflow that allows for the seamless deployment of devices to employees, without the need for manual intervention. This was especially important in a remote-first world, where employees would not be expected to be physically present. It was also important to ensure that the devices were secure from the start of the supply chain, so that even if our devices were intercepted in transit, they could not be compromised.
+As stated in the [case study by Jamf][1], Zero-Touch Deployment is a workflow that allows for the seamless deployment of devices to employees, without the need for manual intervention. This was especially important in a remote-first world, where employees would not be expected to be physically present. It was also important to ensure that the devices were secure end-to-end within the supply chain, so that even if our devices were intercepted in transit, they could not be compromised.
 
 The workflow of Zero-Touch Deployment was functionally magic. It was a process that was automated from start to finish, with the devices being shipped directly from the manufacturer to the employee, and the devices being enrolled in our MDM solution as soon as the devices were connected to the internet. This was a process that was invisible to the employee, needed no IT assistance, required limited user interaction, and the setup process could be completed once the Jamf Connect login screen appeared for them to set up their device and identity for the first time.
 
-This process was, in my opinion, the epitome of our success, reducing the time taken to deploy devices from hours to mere minutes. This was in addition to the security benefits and improved user experience. It was a process that was so seamless that it was almost invisible, and it was a process that I was proud to have been a part of.
+In addition, we made use of the Self Service portal in Jamf to empower employees to resolve common issues, such as installing software that they needed or making themselves temporary administrators. This reduced the number of tickets that were raised to the IT team, increased employee satisfaction, and allowed the IT team to prioritize more important tickets or tasks.
+
+This process was, in my opinion, the epitome of our success, reducing the time taken to deploy devices from hours to mere minutes. This was in addition to the security benefits and improved user experience. It was a process that was so seamless that it was almost invisible, and this being an employee's first impression of IT proved that they would be taken care of while they were here.
 
 ### The SOC II Type 2 Compliance Journey
 
-**TL;DR:** With the completion of this suite of systems, we were well on our way to achieving SOC II Type 2 compliance. This was only possible with the hard work that we had put in over the past three years, and the success of our IT systems was a testament to that.
+**TL;DR:** With the completion of this suite of systems, we managed to achieve SOC II Type 2 compliance. This was only possible with the hard work that we had put in over the past three years, and the success of our IT systems was a testament to that.
 
-With the completion of this suite of systems, we were well on our way to achieving SOC II Type 2 compliance. We had already achieved SOC II Type 1 compliance, and we were confident that we would be able to achieve SOC II Type 2 compliance in the years ahead. We had already been tracking metrics to measure the success of our IT systems, and we were confident that we would be able to meet the stringent requirements of the SOC II Type 2 audit.
+With the completion of this suite of systems, we were well on our way to achieving SOC II Type 2 compliance. We had already achieved SOC II Type 1 compliance, and we were confident that we would be able to achieve and maintain SOC II Type 2 compliance in the years ahead. We had already been tracking metrics to measure the success of our IT systems, and we were confident that we would be able to meet the stringent requirements of the SOC II Type 2 audit.
 
-As far as I know, the audit portion relating to our IT systems was a success, and we were able to achieve SOC II Type 2 compliance. This was a great achievement for us, as it was a testament to the hard work that we had put in over the past three years. It was also a great achievement for me personally, as it was a testament to the hard work that we had put in over the past three years.
+As far as I know, the audit portion relating to our IT systems was a success, and we were able to achieve SOC II Type 2 compliance. This was a great achievement for us, as it was a testament to the hard work that we had put in over the past three years. It was also a great achievement for me personally, as it is a great boost to my portfolio as a cybersecurity professional.
 
 ## Conclusion
 
