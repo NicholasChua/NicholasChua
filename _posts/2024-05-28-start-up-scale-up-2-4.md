@@ -88,8 +88,11 @@ The first year at Biofourmis was a whirlwind of activity. I learned and accompli
 This is the second of the series, and I hope that you have been intrigued by this story so far. The next post will detail the second year of my journey at Biofourmis, where the demands of life and work both grew, and I had to rise to the challenge. Stay tuned!
 
 ```bash
-exit
+nicholaschua@youread.me:~$ exit
+logout
 ```
+{: .nolineno }
+{: file="nicholaschua@youread.me: ~" }
 
 ## References
 

@@ -84,8 +84,11 @@ All in all, the journey that I had taken as a System Administrator at Biofourmis
 This is the last of the series, and I hope that you have enjoyed this sharing of my experience greatly. I will be moving on to other topics and taking a slower pace in writing - the plan is to publish once every 2 weeks - so do look out for my next post! It will talk about my journey with the CISSP certification, and how I managed to pass it on the first try.
 
 ```bash
-exit
+nicholaschua@youread.me:~$ exit
+logout
 ```
+{: .nolineno }
+{: file="nicholaschua@youread.me: ~" }
 
 ## References
 

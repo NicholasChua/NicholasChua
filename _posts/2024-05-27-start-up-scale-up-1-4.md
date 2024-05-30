@@ -81,8 +81,11 @@ With the hardships of the past two years behind us, it was time to prepare to [h
 This is my first professional post on the blog, and I hope to continue writing more on this series. The next post will be about the first year of my journey at Biofourmis, which will be a similarly non-technical post. I hope this first part has given you a good overview of my professional life and I hope you will be pleased with the upcoming posts.
 
 ```bash
-exit
+nicholaschua@youread.me:~$ exit
+logout
 ```
+{: .nolineno }
+{: file="nicholaschua@youread.me: ~" }
 
 ## References
 

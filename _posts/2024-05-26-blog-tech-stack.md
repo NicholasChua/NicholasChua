@@ -85,8 +85,11 @@ If you are interested in the code or the development process for this blog, you 
 This is my first technical post on the blog, setting the stage for future technical posts that will follow in the future. The next post will be something less technical, focusing on my journey and experiences in the tech industry. I look forward to sharing more content with you in the future. Stay tuned!
 
 ```bash
-exit
+nicholaschua@youread.me:~$ exit
+logout
 ```
+{: .nolineno }
+{: file="nicholaschua@youread.me: ~" }
 
 ## References
 

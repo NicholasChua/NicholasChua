@@ -95,8 +95,11 @@ My second year at Biofourmis was a tumultuous time marked by rapid growth and ch
 This is the third of the series, and I hope that you have been intrigued by this story so far. The next post will detail the third year of my journey at Biofourmis, where we experienced how Zero-Touch Deployment was functionally magic, as well as completing our suite of systems. Stay tuned!
 
 ```bash
-exit
+nicholaschua@youread.me:~$ exit
+logout
 ```
+{: .nolineno }
+{: file="nicholaschua@youread.me: ~" }
 
 ## References
 

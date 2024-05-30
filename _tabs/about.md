@@ -29,6 +29,8 @@ aboutme:
     - { title: 'GitHub', url: 'https://www.github.com/NicholasChua' }
   thanks: You read me? You read me! Thank you for contributing to the success of this blog!
 ```
+{: .nolineno }
+{: file="/nicholaschua/aboutme.yml" }
 
 ```yaml
 boring_legalese:
@@ -45,5 +47,7 @@ boring_legalese:
     advertising_tldr: I don't do advertising. If you want to advertise, please consider donating to digital rights and privacy organizations.
     copyright_tldr: Code is MIT licensed. Text, image, video, and all other content is CC BY 4.0 licensed. Don't represent or impersonate me.
 ```
+{: .nolineno }
+{: file="/nicholaschua/boring_legalese.yml" }
 
 
