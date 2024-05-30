@@ -16,12 +16,16 @@ This will be the second in a four-part series where I reflect on the journey tha
 
 ## Timeline and Information
 
-All timelines here are intentionally obfuscated to protect the company's privacy. Aside from the timeline, all other details such as software have already been covered in the [first part of this series]({% link _posts/2024-05-27-start-up-scale-up-1-4.md %}).
+All timelines here are intentionally obfuscated to protect the company's privacy. Aside from the timeline, all other details such as software have already been covered in the [first part of this series]({% link _posts/2024-05-27-start-up-scale-up-1-4.md %}#technologies-used).
 
 ```mermaid
 gantt
     title First Year Timeline
     dateFormat YYYY-MM-DD
+    axisFormat %m-%d
+    tickInterval 1month
+    todayMarker off
+
     Lay of the Land                 :a2, 2020-08-15, 90d
     The New Office                  :a3, 2020-11-01, 150d
     Finding Our Corporate Identity  :a4, 2021-03-01, 170d
@@ -37,7 +41,7 @@ I joined Biofourmis as a System Administrator in August 2020, enraptured with th
 
 I have to be honest that I felt helpdesk was beneath me, although I swallowed my pride and understood that this was one (and maybe the most important) hat I signed up to wear. It was this distaste in how little IT infrastructure we had that gave me the determination to change things for the better.
 
-A few weeks into my tenure, I was surprised to learn that the company had closed their Series C funding round, a $100 million investment that would be used to accelerate the US expansion. This was an amazing sign of potential; I knew money would be spent, and I wanted to ensure that it was spent wisely.
+A month into my tenure, I was surprised to learn that the company had closed their Series C funding round, a $100 million investment that would be used to accelerate the US expansion. This was an amazing sign of potential; I knew money would be spent, and I wanted to ensure that it was spent wisely.
 
 ### The Lay of the Land
 

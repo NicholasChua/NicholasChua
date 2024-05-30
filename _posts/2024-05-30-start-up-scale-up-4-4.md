@@ -16,12 +16,15 @@ This will be the last in a four-part series where I reflect on the journey that 
 
 ## Timeline and Information
 
-All timelines here are intentionally obfuscated to protect the company's privacy. Aside from the timeline, all other details such as software have already been covered in the [first part of this series]({% link _posts/2024-05-27-start-up-scale-up-1-4.md %}).
+All timelines here are intentionally obfuscated to protect the company's privacy. Aside from the timeline, all other details such as software have already been covered in the [first part of this series]({% link _posts/2024-05-27-start-up-scale-up-1-4.md %}#technologies-used).
 
 ```mermaid
 gantt
     title Third Year Timeline
     dateFormat YYYY-MM-DD
+    axisFormat %m-%d
+    tickInterval 1month
+    todayMarker off
 
     How We Trust Jamf to Protect            :a1, 2022-08-01, 120d
     Functional Magic of Zero Touch          :a2, 2022-08-01, 150d
@@ -30,7 +33,7 @@ gantt
 
 ## Journey
 
-**TL;DR**: We trusted Jamf to protect our devices and identity, and we were not disappointed. We also achieved SOC II Type 2 compliance, a great achievement for us, as it was a testament to the hard work that we had put in over the past three years.
+**TL;DR**: We trusted Jamf to protect our devices and identity, and we were not disappointed. We implemented Zero-Touch Deployment. We also achieved SOC II Type 2 compliance, a great achievement for us, as it was a testament to the hard work that we had put in over the past three years.
 
 ### Introduction
 

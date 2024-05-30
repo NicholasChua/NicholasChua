@@ -37,7 +37,7 @@ All technologies mentioned in the below list are the primary responsibility of t
 - [**Jamf Protect**][4]: An endpoint security solution that provides advanced threat protection for macOS.
 - [**Jamf Connect**][5]: A solution that streamlines Mac authentication and identity management.
 
-## Learning Objectives
+## Lessons Learnt
 
 The key things I learnt throughout this journey include:
 
@@ -62,7 +62,7 @@ The key things I learnt throughout this journey include:
 
 ##### Introduction: Start-up Scale-up, a 36 Month Vision
 
-This post will serve as an introduction to the series, providing an overview of the journey that I have taken as a System Administrator at Biofourmis. It will outline the problems faced, the solutions implemented, and the technologies used throughout the 36-month period.
+This post will serve as an introduction to the series, providing an overview of the journey that I have taken as a System Administrator at Biofourmis. It will outline the problems faced, the solutions implemented, lessons learnt, and the technologies used throughout the 36-month period.
 
 ##### Year 1: Planting the Seeds
 

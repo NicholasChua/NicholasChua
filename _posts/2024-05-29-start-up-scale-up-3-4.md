@@ -16,16 +16,20 @@ This will be the third in a four-part series where I reflect on the journey that
 
 ## Timeline and Information
 
-All timelines here are intentionally obfuscated to protect the company's privacy. Aside from the timeline, all other details such as software have already been covered in the [first part of this series]({% link _posts/2024-05-27-start-up-scale-up-1-4.md %}).
+All timelines here are intentionally obfuscated to protect the company's privacy. Aside from the timeline, all other details such as software have already been covered in the [first part of this series]({% link _posts/2024-05-27-start-up-scale-up-1-4.md %}#technologies-used).
 
 ```mermaid
 gantt
     title Second Year Timeline
     dateFormat YYYY-MM-DD
+    axisFormat %m-%d
+    tickInterval 1month
+    todayMarker off
+
     Calm Before the Storm                   :a1, 2021-08-01, 150d
-    Migration From Product G to New Tenant  :a2, 2022-01-01, 115d
+    Migrating Product G to New Tenant       :a2, 2022-01-01, 115d
     Our Ticket to Product S                 :a3, 2022-01-15, 120d
-    Migration From Product J to Jamf        :a4, 2022-03-01, 155d
+    Migrating Product J to Jamf             :a4, 2022-03-01, 155d
 ```
 
 ## Journey
@@ -70,13 +74,13 @@ The rollout of Product S was a resounding success, and I was proud to have been 
 
 ### Migration from Product J to Jamf
 
-**TL;DR**: The migration from Product J to Jamf was a success, exceeding our expectations. Rocketman Tech provided the necessary expertise to make this migration a success, and they were always around to make the necessary adjustments to the workflows. Jamf Connect added to the experience, ensuring that the single source of truth was maintained.
+**TL;DR**: The migration from Product J to Jamf was a success, exceeding our expectations. Rocketman Tech provided the necessary expertise to make this migration a success, and they were always around to make the necessary adjustments to the workflows. Jamf Connect added to the experience, ensuring that the single source of truth was seamlessly maintained.
 
 The crowning achievement of the second year was the migration from Product J to Jamf. As in our [case study by Jamf][2], we had a diverse estate of Apple devices, with the Singapore office devices enrolled in Product J, but not the other offices. We also had a mix of different versions of macOS, with a rare few devices even running versions that were no longer officially supported. We needed a streamlined workflow that could transition all devices to Jamf, and we wanted to achieve it in a way that required no IT assistance, limited user interaction, and minimal downtime.
 
 This tall order was beyond the capabilities of our team, so we were glad that Jamf connected us with [Rocketman Tech][3] to provide the necessary expertise to make this migration a success. We conveyed our requirements and our current situation, and they worked with us to formulate a plan, along with all the necessary scripts and workflows to make the migration a success.
 
-Even as we faced unforeseen issues, Rocketman was always around to make the necessary adjustments to the workflows. They also accommodated our requests to make accessibility changes to the workflows, and this gave us the confidence that their vision was aligned with ours. With their white-glove service, we were able to see a staggering number of devices transitioned to Jamf, exceeding our expectations.
+Even as we faced unforeseen issues, Rocketman was always around to make the necessary adjustments to the workflows. They also accommodated our requests to make accessibility changes to the workflows, and this gave us the confidence that their vision was aligned with ours. With their white-glove service, we were able to see at least 600 happy employees and devices transitioned to Jamf, exceeding our expectations.
 
 Jamf Connect was also a great addition to our identity mangement stack. When a user logs in to their Mac, the workflow is streamlined such that they are shown a custom login screen that allows them to authenticate with their Okta credentials. This was a great addition to our security stack, as it ensured that the single source of truth was maintained, and this could even be extended to the new hire onboarding experience.
 
