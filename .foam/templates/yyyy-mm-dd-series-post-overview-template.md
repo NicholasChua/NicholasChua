@@ -1,6 +1,6 @@
 ---
 title: ${1:$TM_FILENAME_BASE}
-date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE}T${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND}+08:00
+date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND} +08:00
 categories: [professional]
 tags: []
 author: NicholasChua
@@ -74,4 +74,4 @@ exit
 [1]: https://www.example.com/
 
 ---
-[Return to Index](#${FOAM_SLUG})
+[Return to Top](#${FOAM_SLUG})

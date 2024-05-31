@@ -1,61 +1,53 @@
 ---
 title: ${1:$TM_FILENAME_BASE}
 date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND} +08:00
-categories: [professional]
+categories: [review]
 tags: []
 author: NicholasChua
 description:
-mermaid: true
 ---
 
 # ${1:$TM_FILENAME_BASE}
 
-## Background
+## Disclaimer
+
+As made clear in my [About]({% link _tabs/about.md %}) page, I do not do affiliate marketing or advertising. All products reviewed are purchased by me and all opinions are my own. I hate to see biased reviews as much as you do.
+
+## Introduction
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
-## Timeline and Information
-
-All timelines here are intentionally obfuscated to protect the company's privacy. Aside from the timeline, all other details such as software have already been covered in the first part of this series.
-
-```mermaid
-gantt
-    title Generic Timeline
-    dateFormat YYYY-MM-DD
-    axisFormat %m-%d
-    tickInterval 1month
-    todayMarker off
-
-    Item 1                          :a1, 2020-01-01, 120d
-    Item 2                          :a2, 2020-04-01, 120d
-    Item 3                          :a3, 2020-07-01, 120d
-    Item 4                          :a4, 2020-10-01, 90d
-    Item 5                          :milestone, s1, 2021-01-01, 0d
-```
-
-## Journey
+## Product Overview
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
-### Introduction
+#### Feature 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
-### Section 1
-
-**TL;DR**: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#### Feature 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
-### Section 2
-
-**TL;DR**: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#### Feature 3
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
-### Section 3
+## Specifications
 
-**TL;DR**: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+| ‎ | Name |
+| --- | --- |
+| CPU | Lorem |
+| RAM | Ipsum |
+| Storage | Dolor |
+| OS | Sit Amet |
+| Display | Consectetur |
+| Ports | Adipiscing |
+| Battery | Elit |
+| Weight | Nullam |
+| Dimensions | Nec Purus |
+
+## Why I Bought It
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
@@ -80,4 +72,4 @@ exit
 [1]: https://www.example.com/
 
 ---
-[Return to Top](#${FOAM_SLUG})
+[Return to Index](#${FOAM_SLUG})
