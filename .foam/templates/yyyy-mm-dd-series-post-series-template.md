@@ -68,7 +68,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nun
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
 ```bash
-exit
+nicholaschua@youread.me:~$ exit
+logout
 ```
 {: .nolineno }
 {: file="nicholaschua@youread.me: ~" }
