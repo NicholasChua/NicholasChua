@@ -72,8 +72,8 @@ analytics:
     id: # fill in your Cloudflare Web Analytics token
 
 # Pageviews settings
-pageviews:
-  provider: goatcounter
+# pageviews:
+#   provider: goatcounter
 
 # Prefer color scheme setting.
 #
