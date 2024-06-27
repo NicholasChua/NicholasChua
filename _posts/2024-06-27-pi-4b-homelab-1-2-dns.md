@@ -19,7 +19,7 @@ I decided to purchase the latest Raspberry Pi at the time: a Pi 4 Model B 8GB, t
 
 ##### ***Who do you trust?*** 
 
-When a DNS request is made, it is first checked against a cache to see if your Pi-Hole already knows the destination. If not, it is sent to an upstream DNS resolver to find the IP address of the domain. This DNS resolver can be your ISP, Google, Cloudflare, or any other public DNS provider. These DNS resolvers then reach out to the root DNS servers to find the authoritative DNS server for the domain. 
+When a DNS request is made, it is first checked against a cache to see if your resolver already knows the destination. If not, it is sent to an upstream DNS resolver to find the IP address of the domain. This DNS resolver can be your ISP, Google, Cloudflare, or any other public DNS provider. These DNS resolvers then reach out to the root DNS servers to find the authoritative DNS server for the domain. 
 
 This process can be intercepted or logged by the DNS resolver, potentially compromising your privacy. To this end, I believe in cutting out the middleman and having my own DNS resolver that can provide recursive DNS resolution which places the logging and interception in my hands instead of a third party.
 
