@@ -1,5 +1,5 @@
 ---
-title: ${1:$TM_FILENAME_BASE}
+title: ${1:${TM_FILENAME_BASE/(^\d{4}-\d{2}-\d{2}-)//}}
 date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND} +08:00
 categories: [review]
 tags: []
@@ -7,11 +7,11 @@ author: NicholasChua
 description:
 ---
 
-# ${1:$TM_FILENAME_BASE}
+# ${1:${TM_FILENAME_BASE/(^\d{4}-\d{2}-\d{2}-)//}}
 
 ## Disclaimer
 
-As made clear in my [About]({% link _tabs/about.md %}) page, I do not do affiliate marketing or advertising. All products reviewed are purchased by me and all opinions are my own. I hate to see biased reviews as much as you do.
+As made clear in my [About]({% link _tabs/about.md %}) page, I do not do affiliate marketing or advertising. All products reviewed are either FOSS or purchased by me and all opinions are my own. I hate to see biased reviews as much as you do.
 
 ## Introduction
 
@@ -33,21 +33,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nun
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
-## Specifications
+## Environment
 
-| ‎ | Name |
-| --- | --- |
-| CPU | Lorem |
-| RAM | Ipsum |
-| Storage | Dolor |
-| OS | Sit Amet |
-| Display | Consectetur |
-| Ports | Adipiscing |
-| Battery | Elit |
-| Weight | Nullam |
-| Dimensions | Nec Purus |
+This software was tested on the following environment:
+- **OS**: Lorem ipsum dolor sit amet
 
-## Why I Bought It
+This software requires the following dependencies:
+- **Dependency 1**: Lorem ipsum dolor sit amet
+- **Dependency 2**: Lorem ipsum dolor sit amet
+
+## Why I Use It
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
@@ -73,4 +68,4 @@ logout
 [1]: https://www.example.com/
 
 ---
-[Return to Index](#${FOAM_SLUG})
+[Return to Top](#${1/(^\d{4}-\d{2}-\d{2}-)(.*)/${FOAM_SLUG:$2}/})

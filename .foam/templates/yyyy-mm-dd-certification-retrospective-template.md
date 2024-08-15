@@ -1,5 +1,5 @@
 ---
-title: ${1:$TM_FILENAME_BASE}
+title: ${1:${TM_FILENAME_BASE/(^\d{4}-\d{2}-\d{2}-)//}}
 date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND} +08:00
 categories: [certification]
 tags: []
@@ -7,7 +7,7 @@ author: NicholasChua
 description:
 ---
 
-# ${1:$TM_FILENAME_BASE}
+# ${1:${TM_FILENAME_BASE/(^\d{4}-\d{2}-\d{2}-)//}}
 
 ## Background
 
@@ -75,4 +75,4 @@ logout
 [1]: https://www.example.com/
 
 ---
-[Return to Top](#${FOAM_SLUG})
+[Return to Top](#${1/(^\d{4}-\d{2}-\d{2}-)(.*)/${FOAM_SLUG:$2}/})

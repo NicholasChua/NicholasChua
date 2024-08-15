@@ -1,7 +1,7 @@
 ---
 title: ${1:${TM_FILENAME_BASE/(^\d{4}-\d{2}-\d{2}-)//}}
 date: ${CURRENT_YEAR}-${CURRENT_MONTH}-${CURRENT_DATE} ${CURRENT_HOUR}:${CURRENT_MINUTE}:${CURRENT_SECOND} +08:00
-categories: [professional]
+categories: [review]
 tags: []
 author: NicholasChua
 description:
@@ -9,51 +9,49 @@ description:
 
 # ${1:${TM_FILENAME_BASE/(^\d{4}-\d{2}-\d{2}-)//}}
 
-## Background
+## Disclaimer
+
+As made clear in my [About]({% link _tabs/about.md %}) page, I do not do affiliate marketing or advertising. All products reviewed are purchased by me and all opinions are my own. I hate to see biased reviews as much as you do.
+
+## Introduction
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
-## Problem Statement
+## Product Overview
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
-## Solution
+#### Feature 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
-## Technologies Used
-
-All technologies mentioned in the below list are mentioned at least once in at least one part of this series. Omission of any technology is intentional as they have been referred to under the genericized term. Technologies not described by name are intentionally obfuscated to protect the company's privacy. Technologies described by name in this series are public knowledge and will be referenced to in the [References](#references) section. 
-
-- **Product AZ**: Lorem ipsum dolor sit amet
-- [Lorem ipsum dolor sit amet][1]: consectetur adipiscing elit
-- [Lorem ipsum dolor sit amet][1]: consectetur adipiscing elit
-
-## Lessons Learnt
-
-The key things I learnt throughout this journey include:
-
-- [x] Lorem
-- [x] Ipsum
-- [x] Dolor
-- [x] Sit
-- [x] Amet
-
-## Structure
-
-##### Part 1
+#### Feature 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
-##### Part 2
+#### Feature 3
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
-##### Part 3
+## Specifications
+
+| ‎ | Name |
+| --- | --- |
+| CPU | Lorem |
+| RAM | Ipsum |
+| Storage | Dolor |
+| OS | Sit Amet |
+| Display | Consectetur |
+| Ports | Adipiscing |
+| Battery | Elit |
+| Weight | Nullam |
+| Dimensions | Nec Purus |
+
+## Why I Bought It
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
-##### Part 4
+## Conclusion
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt. Nullam nec purus ac nunc ultricies tincidunt.
 
