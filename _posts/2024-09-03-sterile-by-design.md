@@ -48,7 +48,7 @@ Here are five key lessons from my journey toward "sterility by design":
 
 This mindset is dangerous in cybersecurity, where the threat landscape is constantly evolving. I used to think similarly about parenting. I used to think that children would give life meaning. I never questioned this path because I didn't fully understand the sacrifices both partners make to have children or the profound challenges of parenthood. It was easy to overlook the physical and emotional toll on women to maintain fertility and conceive. It was natural to consider that others may have nothing interesting about themselves, that they needed children in order to have their lives fulfilled.
 
-As I learned more, I began questioning, "Is this suffering necessary?" This led me to choose a vasectomy, a decision based on informed, introspective reasoning. It encouraged me to look internally for answers rather than living up to the expectations of people who may not have my best interests in mind.
+As I learned more, I began questioning: "Is this suffering necessary?". This led me to choose a vasectomy, a decision based on informed, introspective reasoning. It encouraged me to look internally for answers rather than living up to the expectations of people who may not have my best interests in mind.
 
 Cybersecurity has also needed to evolve, leading to approaches like DevSecOps, integrating security directly into development processes. Just as we rethink approaches in cybersecurity, we can make proactive, long-term decisions in our personal lives for greater peace of mind. A sterile environment should not be a goal, but rather a byproduct of a well-architected security strategy.
 
@@ -64,7 +64,9 @@ Taking a proactive stance in both professional and personal settings fosters a c
 
 In cybersecurity, there are four ways to manage risk: avoid, mitigate, transfer, and accept. Avoiding risk is the most effective strategy. In my personal life, I chose a vasectomy to avoid the risk of unintended parenthood, aligning my actions with my long-term goals.
 
-It is often the case that we neither understand other system owners' environments, nor do they understand our struggles. When we approach cybersecurity, shared responsibility is key. We should work with system owners to understand environments, identify risks, and find ways to avoid or mitigate them. We must also have clear strategies for implementing security, such that our risk management approach is proactive and effective.
+I realized that by never having children, I would also be able to avoid certain industries entirely: early childhood, obstetrics, pediatrics, education, amongst others. This has allowed me to streamline my life, reducing my "attack surface", and focus on areas that matter most to me. This is similar to how cybersecurity professionals focus on reducing the attack surface of their systems, limiting exposure to threats and vulnerabilities, improving overall security posture.
+
+In addition, I can also extend this reduction in attack surface to my partner, who would reap the benefits of not having to bear the physical and emotional toll of pregnancy. This is akin to how cybersecurity professionals protect their users, ensuring they are not exposed to unnecessary risks. By proactively taking on the burden of family planning, I reinforce my dedication to shared responsibility, a key principle in both personal and professional relationships.
 
 ### Empathy With Your Allies
 
