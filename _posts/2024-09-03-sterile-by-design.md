@@ -1,5 +1,5 @@
 ---
-title: Sterile by Design
+title: Sterile By Design
 date: 2024-09-03 00:07:23 +0800
 categories: [personal]
 tags: [personal, perspective]

@@ -1,5 +1,5 @@
 ---
-title: Opnsense Software Review
+title: OPNsense Software Review
 date: 2024-08-25 16:26:48 +08:00
 categories: [technical]
 tags: [opnsense, router, homelab]
@@ -7,7 +7,7 @@ author: NicholasChua
 description: A review of OPNsense 24.1, an open-source firewall and routing platform based on FreeBSD
 ---
 
-# Opnsense Software Review
+# OPNsense Software Review
 
 ## Disclaimer
 
