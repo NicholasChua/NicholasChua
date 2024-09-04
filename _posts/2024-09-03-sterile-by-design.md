@@ -7,7 +7,7 @@ author: NicholasChua
 description: How my vasectomy empowered my approach to cybersecurity
 ---
 
-# Sterile by Design
+# Sterile By Design
 
 #### Terminology
 
@@ -26,7 +26,7 @@ That is in addition to the erasure of identity that comes with motherhood, a uni
 
 A vasectomy is minimally invasive, with fewer side effects than procedures like a bilateral salpingectomy or even birth control pills. Given the evidence, why shouldn't I take on this responsibility?
 
-## Parallels Between My Vasectomy and My Professional Life
+## Parallels Between My Vasectomy And My Professional Life
 
 In reproductive health, temporary solutions like condoms or contraceptives require ongoing effort and are prone to human error. Their effectiveness can't be immediately verified, making them less predictable and harder to audit.
 
@@ -38,7 +38,7 @@ Despite these advantages, why do people avoid more effective, permanent solution
 
 If a security breach occurs, claiming ignorance or believing it "won't happen to me" is unacceptable and could harm the reputation of the company I work for. Similarly, neglecting proactive reproductive health measures can have unintended consequences. We should hold ourselves to the same high standards in both personal and professional life by making deliberate, informed decisions that align with our long-term goals.
 
-## What I've Learned
+## What I Learned
 
 Here are five key lessons from my journey toward "sterility by design":
 
@@ -76,7 +76,7 @@ The world is increasingly becoming hostile toward the childfree, particularly wo
 
 Likewise, cybersecurity professionals must also empathize with developers, sysadmins, and users. These groups often have great ideas for improving security, but they may face resistance or misunderstanding. By being supportive allies who understand their challenges, we can foster a culture of security that is inclusive, effective, and sustainable. We can implement effective security measures that are practical and minimally disruptive, fostering a secure, cooperative environment.
 
-### Planning a Playbook
+### Planning A Playbook
 
 > "You are still young, and a vasectomy is permanent. What if you regret your decision?"
 
