@@ -81,7 +81,7 @@ While I mainly listen to these three genres, I think it would be remiss of me no
 
 [Bell Witch - Mirror Reaper][9]
 
-{% include embed/youtube.html id='3Ie1ZUk8j7M' %}
+{% include embed/youtube.html id='pzB-cuxBqdk' %}
 
 ## Conclusion
 
@@ -107,7 +107,7 @@ I hope this post has given you some insight into one of the pillars of my life. 
 [6]: https://www.youtube.com/watch?v=RE7_Zp0lX1c
 [7]: https://www.youtube.com/watch?v=p9N-9DAlbYM
 [8]: https://www.youtube.com/watch?v=e_t9JNmR3MI
-[9]: https://www.youtube.com/watch?v=3Ie1ZUk8j7M
+[9]: https://www.youtube.com/watch?v=pzB-cuxBqdk
 
 ```bash
 nicholaschua@youread.me:~$ exit
