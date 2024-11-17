@@ -42,7 +42,7 @@ I recently reviewed my online accounts and enabled 2FA for every service that I 
 
 For services that do not support TOTP, I have no choice but to use SMS or email-based OTPs. This is unfortunately common for financial institutions and government services around the world that have not yet adopted modern 2FA standards. While not ideal, it is better than not having 2FA enabled at all.
 
-I have also recently taken delivery of a pair of YubiKey 5 NFC hardware tokens, which I plan to use for services that support hardware tokens. While I have not yet had the opportunity to use them, I am excited to see how they improve my security posture. I will likely write a review of the YubiKey 5 NFC once I have had a chance to use them for a while.
+I have also recently taken delivery of a pair of [YubiKey 5 NFC][2] hardware tokens, which I plan to use for services that support hardware tokens, in addition to exploring other features like securing my SSH sessions, or exploring signing code or emails. While I have not yet had the opportunity to use them, I am excited to see how they improve my security posture. I will likely write a review of the YubiKey 5 NFC once I have had a chance to use them for a while.
 
 ![YubiKey 5 Pair](../assets/img/2024-11-17-two-factor-authentication/YubiKey%205%20NFC.jpg){: width="734" height="466" }
 _A pair of YubiKeys_
@@ -65,8 +65,10 @@ logout
 ## References
 
 1. [Aegis Authenticator][1]
+2. [YubiKey 5 NFC][2]
 
 [1]: https://getaegis.app/
+[2]: https://www.yubico.com/products/yubikey-hardware/yubikey5/
 
 ---
 [Return to Top](#two-factor-authentication)
