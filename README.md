@@ -4,11 +4,11 @@ nicholaschua@youread.me:~$ neofetch
               ██████████████                	
           ██████████████████████            	nicholaschua@youread.me
        ████████████████████████████         	-----------------------
-      ██████████████████  ███████████       	OS: Year 3 Information Security Student
+      ██████████████████  ███████████       	OS: Year 4 Information Security Student
     ██████████████               ██████     	Host: Singapore Institute of Technology
-   ██████████ ███████████            ███    	Kernel: 29.3
-  █████████████ ██  ████████          ████  	Uptime: 3 years
- ████████ █████  ██     ██ ██     █    ███  	DE: Windows 11 23H2, Android 14, Debian 12
+   ██████████ ███████████            ███    	Kernel: 30.0
+  █████████████ ██  ████████          ████  	Uptime: 4 years
+ ████████ █████  ██     ██ ██     █    ███  	DE: Windows 11 24H2, Android 15, Debian 12
 ████████ ███ █    █         ██          ██  	WM: Visual Studio Code
 ████████████  ████          ██           ██ 	Certifications: Associate of ISC2
 ████████████                             ███	
