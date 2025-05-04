@@ -11,7 +11,7 @@ aboutme:
   description: "Geek. Introvert. Metalhead. Perfectionist. Minimalist."
   roles:
     - { name: 'Information Security Undergraduate', location: 'Singapore Institute of Technology', duration: '2021 - 2025' }
-    - { name: 'Intern', location: 'Univac Precision Engineering', duration: '2024 - present'}
+    - { name: 'Intern', location: 'Univac Precision Engineering', duration: '2024 - 2025'}
     - { name: 'System Administrator', location: 'Biofourmis', duration: '2020 - 2023'}
     - { name: 'Wintel Systems Engineer', location: 'NCS', duration: '2018 - 2020'}
   location: Singapore
